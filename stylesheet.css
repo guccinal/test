@@ -3,5 +3,6 @@ body {
 }
 
 .everything {
+    max-width: 390px;
     text-align: center;
 }
