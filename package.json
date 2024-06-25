@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "nodemon webApp.js"
+  },
+  "dependencies": {
+    "git": "^0.1.5",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "name": "safetransactionwebapp",
+  "version": "1.0.0",
+  "main": "webApp.js",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
