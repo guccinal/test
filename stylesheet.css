@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background: #161D27;
+    max-width: 390px;
 }
 
 .logo {
