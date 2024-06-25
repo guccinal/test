@@ -1,7 +1,158 @@
 body {
+    margin: 0;
+    padding: 0;
     background: #161D27;
 }
 
-.everything {
+.logo {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 10px;
+    top: 16px;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 92px;
+    height: 23px;
+    left: 70px;
+    top: 31px;
+    color: rgb(255, 255, 255);
+    font-family: SF Pro Display;
+    font-size: 19.2px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+h2 {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 157px;
+    height: 24px;
+    left: 183px;
+    top: 31px;
+    color: rgb(116, 116, 116);
+    font-family: SF Pro Display;
+    font-size: 19.2px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.box {
+    position: absolute;
+    width: 710px;
+    height: 600px;
+    left: 10px;
+    top: 80px;
+    border-radius: 20px;
+    background: rgb(29, 38, 51);
+}
+
+h3 {
+    margin-top: 26px;
+    margin-bottom: 26px;
+    padding: 0;
+    color: rgb(255, 255, 255);
+    font-family: SF Pro Display;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;
     text-align: center;
+}
+
+h4 {
+    margin: 0;
+    padding: 0;
+    margin-left: 116px;
+    margin-right: 116px;
+    position: absolute;
+    width: 479px;
+    height: 64px;
+    padding: 0;
+    font-family: SF Pro Display;
+    color: rgb(116, 116, 116);
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 16px;
+    text-align: center;
+}
+
+.box2 {
+    position: absolute;
+    width: 710px;
+    height: 298px;
+    left: 10px;
+    top: 700px;
+    border-radius: 20px;
+    background: rgb(29, 38, 51);
+}
+
+.also1 {
+    position: absolute;
+    width: 230px;
+    height: 142px;
+    left: 10px;
+    top: 1012px;
+    border-radius: 19px;
+    background: rgb(29, 38, 51);
+}
+
+.also2 {
+    position: absolute;
+    width: 230px;
+    height: 142px;
+    left: 250px;
+    top: 1012px;
+    border-radius: 19px;
+    background: rgb(29, 38, 51);
+}
+
+.also3 {
+    position: absolute;
+    width: 230px;
+    height: 142px;
+    left: 490px;
+    top: 1012px;
+    border-radius: 19px;
+    background: rgb(29, 38, 51);
+}
+
+.also4 {
+    position: absolute;
+    width: 230px;
+    height: 142px;
+    left: 10px;
+    top: 1168px;
+    border-radius: 19px;
+    background: rgb(29, 38, 51);
+}
+
+.also5 {
+    position: absolute;
+    width: 230px;
+    height: 142px;
+    left: 250px;
+    top: 1168px;
+    border-radius: 19px;
+    background: rgb(29, 38, 51);
+}
+
+.also6 {
+    position: absolute;
+    width: 230px;
+    height: 142px;
+    left: 490px;
+    top: 1168px;
+    border-radius: 19px;
+    background: rgb(29, 38, 51);
 }
